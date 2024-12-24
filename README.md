@@ -23,5 +23,5 @@ Este proyecto es una herramienta de web scraping basada en Python que utiliza Se
 
 1. Clona este repositorio:
    ```bash
-   git clone <url_del_repositorio>
-   cd <carpeta_del_repositorio>
+   git clone https://github.com/eduan-villegas/saucedemo
+   cd saucedemo
