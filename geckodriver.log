@@ -1,0 +1,116 @@
+1734645527343	geckodriver	INFO	Listening on 127.0.0.1:57078
+1734645527856	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qk/j4bb4rnx0p7_r3043nsr3_5w0000gn/T/rust_mozprofileR9tQq9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734645528480	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1734645528736	Marionette	INFO	Listening on port 57085
+WebDriver BiDi listening on ws://127.0.0.1:57079
+1734645528838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1734645572028	Marionette	INFO	Stopped listening on port 57085
+1734645641734	geckodriver	INFO	Listening on 127.0.0.1:57148
+1734645642244	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qk/j4bb4rnx0p7_r3043nsr3_5w0000gn/T/rust_mozprofilehvI9m3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734645642606	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-fullscreen"
+1734645642884	Marionette	INFO	Listening on port 57155
+WebDriver BiDi listening on ws://127.0.0.1:57149
+1734645642983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-12-19 16:00:43.162 firefox[40377:382015] +[IMKClient subclass]: chose IMKClient_Modern
+2024-12-19 16:00:43.162 firefox[40377:382015] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1734645689576	geckodriver	INFO	Listening on 127.0.0.1:57225
+1734645690088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qk/j4bb4rnx0p7_r3043nsr3_5w0000gn/T/rust_mozprofile0y0Gys"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734645690433	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-fullscreen"
+1734645690715	Marionette	INFO	Listening on port 57235
+WebDriver BiDi listening on ws://127.0.0.1:57226
+1734645690814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-12-19 16:01:30.963 firefox[40573:384050] +[IMKClient subclass]: chose IMKClient_Modern
+2024-12-19 16:01:30.963 firefox[40573:384050] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1734645726973	geckodriver	INFO	Listening on 127.0.0.1:57300
+1734645727486	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qk/j4bb4rnx0p7_r3043nsr3_5w0000gn/T/rust_mozprofile13mLKn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734645728051	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1734645728309	Marionette	INFO	Listening on port 57307
+WebDriver BiDi listening on ws://127.0.0.1:57301
+1734645728417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-12-19 16:02:08.599 firefox[40729:385628] +[IMKClient subclass]: chose IMKClient_Modern
+2024-12-19 16:02:08.599 firefox[40729:385628] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1734645766628	Marionette	INFO	Stopped listening on port 57307
+1734650884419	geckodriver	INFO	Listening on 127.0.0.1:57887
+1734650884931	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qk/j4bb4rnx0p7_r3043nsr3_5w0000gn/T/rust_mozprofileuzd9JZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734650885622	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1734650885972	Marionette	INFO	Listening on port 57894
+WebDriver BiDi listening on ws://127.0.0.1:57888
+1734650886183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-12-19 17:28:06.279 firefox[53824:502108] +[IMKClient subclass]: chose IMKClient_Modern
+2024-12-19 17:28:06.279 firefox[53824:502108] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1734650931839	Marionette	INFO	Stopped listening on port 57894
+1734650955919	geckodriver	INFO	Listening on 127.0.0.1:57953
+1734650956427	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qk/j4bb4rnx0p7_r3043nsr3_5w0000gn/T/rust_mozprofile0wjLgT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734650957179	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1734650957515	Marionette	INFO	Listening on port 57960
+WebDriver BiDi listening on ws://127.0.0.1:57954
+1734650957673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-12-19 17:29:17.846 firefox[54069:504586] +[IMKClient subclass]: chose IMKClient_Modern
+2024-12-19 17:29:17.846 firefox[54069:504586] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1734651056235	Marionette	INFO	Stopped listening on port 57960
+1734651365237	geckodriver	INFO	Listening on 127.0.0.1:58852
+1734651365737	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qk/j4bb4rnx0p7_r3043nsr3_5w0000gn/T/rust_mozprofileboWKEQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734651366392	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1734651366698	Marionette	INFO	Listening on port 58859
+WebDriver BiDi listening on ws://127.0.0.1:58853
+1734651366810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
